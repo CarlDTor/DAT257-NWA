@@ -1,1 +1,17 @@
-aaaaaa
+What do I want to learn or understand better?
+
+As a start I want to become familiar with the SCRUM work environment and learn how to manage a software oriented project.
+Furthermore I want to familiarise myself with Git and further expand my knowledge in Java.
+For example learn how to find and implement libraries myself without them being handed to me by a teacher.
+
+How can I help someone else, or the entire team, to learn something new?
+
+I believe that my knowledge gained from being a student of industrial engineering will go hand in hand with project management. This can be by actively participating in discussion, asking questions and/or do my own research to later present it to the group.
+
+What is my contribution towards the team's use of Scrum?
+
+For this week I was very active in the creation of our social contract as I and Carl where the only ones familiar with that concept. In the future I'd be very glad to come up with user stories and lead documentation to allow a smooth implementation of Scrum in our project.
+
+What is my contribution towards the teamäs deliveries?
+
+While my programming skills might fall a bit short compared to the usual IT-student I have no problem in developing these skills to make myself of use. As noted before however I'd be glad to lead documentation and help out in the Scrum process as much as possible.
