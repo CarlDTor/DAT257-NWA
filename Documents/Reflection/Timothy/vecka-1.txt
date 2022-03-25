@@ -1,1 +1,11 @@
-aaaaaa
+- What do I want to learn or understand better?
+I have previous work experience in agile software developement, thus not too much to learn when it comes to the agile work-flow, except for Velocity and estimation. Velocity and estimation is something I would want to understand better. I would also like to learn new techonolgies, improve my programming skills and get more experience working in a group.
+
+- How can I help someone else, or the entire team, to learn something new?
+By using my knowledge and experience to educate my fellow group members to make sure everyone grasps whatever it is someone in my team wants or needs to learn to the best of my capabilities. I will enforce this by asking questions and sharing my thoughts to make sure everyone is up to speed and certain about everything we are doing, so that no one feels left behind.
+
+- What is my contribution towards the team’s use of Scrum?
+ In The first week we only briefly tried Scrum in minetest. During the first excersise I acted as Scrum-master and therefore had conversations with the Product Owner as well as the other teams to make sure everything was clear. I also contributed with sprint-planning, sprint-review and retrospective.
+
+- What is my contribution towards the team’s deliveries?
+First week we only had social contract as our deliverable and I contributed by attending the meeting and discussing the contract. In the future I will do my best to contribute to make sure our team delivers, wheter that is attending meetings, programming, planing etc. This means that I will put in my hours into the project and deliveries.
