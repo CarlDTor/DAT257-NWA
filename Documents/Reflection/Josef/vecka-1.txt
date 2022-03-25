@@ -1,1 +1,17 @@
-aaaaaa
+what do I want to learn or understand better?
+I would like to learn how to apply the SCRUM process in a software project starting from scratch.
+I would also like to understand how the SCRUM process affects working as a team and what different
+methods are used to achieve a better software product.
+
+how can I help someone else, or the entire team, to learn something new?
+I can help others or my team by sharing my thoughts and having discussions with the team on different topics.
+I could also explore and research that subject on my own and share my knowledge later.
+
+what is my contribution towards the team’s use of Scrum?
+During the first week we have not had many chances to use SCRUM except for the minetest excercise.
+During the excerise I contributed to some sprint planning, took the responsibility of different parts 
+of the user stories and reflected together with the team on each sprint.
+
+what is my contribution towards the team’s deliveries?
+This week the team deliverable was a social contract. I contributed to this by participating in the meeting
+and discussed with the team what we wanted to include in the contract. 
