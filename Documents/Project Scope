@@ -1,0 +1,24 @@
+Our stakeholder needs a web app that: 
+  * takes pdf:s of digital ICA-receipts as input and 
+  * converts them into text fields storing articles and their respective cost. 
+  * Making these conversions storable for later use. 
+
+Our stakeholder would like these additional features (listed in descending order of importance):
+
+  * Ability to manually edit fields in cases where the conversion is imperfect
+
+  * Automatic fetching of receipts from Kivra
+
+  * Option to store receipt conversions as XML files
+
+  * Option to aggregate conversions belonging to a specified time frame
+
+  * Ability to categorize articles (apple → fruit)
+
+  * Generated estimations of expected product lifespan based on time between previous purchases
+
+  * Support for other types of receipts
+  
+  * Support for mobile
+  
+  * A customizable cat avatar that reacts positively to articles belonging to the vegetable category

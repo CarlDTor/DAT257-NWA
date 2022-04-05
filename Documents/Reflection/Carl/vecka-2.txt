@@ -1,0 +1,23 @@
+What do I want to learn or understand better?
+
+  I know the basics of git but I would like to integrate it more closely into my development environment. 
+  I hope to learn this next week, maybe alongside my teammates.
+
+How can I help someone else, or the entire team, to learn something new?
+
+  I know a thing or two about operations management. 
+  It’d be swell if we as a group could use some techniques from there to facilitate our work going forward. 
+  We’ll talk more about our work process next monday.
+
+What is my contribution towards the team’s use of Scrum?
+
+  This week, I sat down with the main stakeholder to establish our collective project scope. 
+  Some of his desired features will have to be jotted down in the backlog. 
+  I know that many of our members are ready to start working on the backlog first thing next week. 
+
+What is my contribution towards the team’s deliveries?
+
+  I helped develop the initial vision for the project and gave it a placeholder logo & name. 
+  I also wrote the project scope and used that scope to help Fredrik create our BMC. 
+  As a team we should continue to develop our product backlog as well as start working on the first sprint backlog. 
+  I’ll try to help that process in our first sprint meeting next monday. 

@@ -1,0 +1,11 @@
+- What do I want to learn or understand better?
+The different parts in the SCRUM process. I will get a better understanding next week when we actually apply the lessons learned from the lectures.
+
+- How can I help someone else, or the entire team, to learn something new?
+I have used my previous knowledge to make a strong recommendation on which technologies to use. Next week I can assist in setting up team member's development environments as well as explaining some basic parts of the frameworks.
+
+- What is my contribution towards the team’s use of Scrum?
+I have started to think about how to apply the "Slicing the cake" exercise on our project.
+
+- What is my contribution towards the team’s deliveries?
+Participating in meetings and the decision making of what our project will be about. Researching computer vision APIs.

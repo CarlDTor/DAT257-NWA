@@ -1,0 +1,12 @@
+what do I want to learn or understand better?
+Not much has changed since last week. I would still say more about the SCRUM proccess which we will apply next week hopefully.
+
+how can I help someone else, or the entire team, to learn something new?
+I will share my knowledge for example help I students with git.
+
+what is my contribution towards the team’s use of Scrum?
+Mostly meeting with the team and discussing how we would like to apply SCRUM.
+
+what is my contribution towards the team’s deliveries?
+Deciding what project the team is going to work on and researching technologies we would like to use during the project.
+Also given feedback to team deliverable.

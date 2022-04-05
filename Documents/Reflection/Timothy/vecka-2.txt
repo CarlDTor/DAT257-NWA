@@ -1,0 +1,20 @@
+- What do I want to learn or understand better?
+A: Currently, I want to learn more about React and Spring boot and in order to start developing our app, also want to learn more about estimation and velocity.  
+B: I want to be able to be fully fluent with React and Spring boot so that I can work on the project without the need to constantly look up information about syntax and how things work.
+I also want to be able to properly estimate User Stories as a team and then also calculate our velocity in a correct way.
+(A->B): Continue to learn about the things mentioned above and review lecture materials and also research more about the techonlogies above and experiment on my own to learn.
+
+- How can I help someone else, or the entire team, to learn something new?
+A: I have a pretty good understanding of how to implement SCRUM in practice because of previous experience and will thus use this experience to help my group members in every way possible 
+B: I want everyone in my group to be confident about SCRUM in such a way where everything flows perfectly. 
+(A->B): I will encourage my group members to ask questions if something is unclear, and also chipping in with my own knowledge and thougts when need be.
+
+- What is my contribution towards the team’s use of Scrum?
+A: I have participated in this week's lectures, also looked in to Agile Management software like JIRA. 
+B:  Choose what Agile Managemant Software to use and also start our first sprint on Monday
+(A->B): I will attend our meetings and start sprint planning next week.
+
+- What is my contribution towards the team’s deliveries?
+A: Participated in the team meeting where I shared my thougts and my ideas for the project and discussed the other's ideas, and eventually we came to a decision collectively. 
+B: For next week, I want to continue to contribute to SCRUM and plan our sprint and also start working on some User Stories to get the project rolling.
+(A->B): I will complete this by attending our meetings and also individually work on a User Story and do neccessary research so that our project progresses smoothly.

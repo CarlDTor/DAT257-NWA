@@ -1,0 +1,19 @@
+- What do I want to learn or understand better?
+A: Currently, I want to learn more about SCRUM and how to use it in practice.  
+B: I want to be able to have such good knowledge about SCRUM so that I feel more comfortable using it without questioning if what I am doing is correct. 
+(A->B): Continue to learn about SCRUM through working with it, as well as doing my own research on the topic when I do not understand something. 
+
+- How can I help someone else, or the entire team, to learn something new?
+A: I have good knowledge regaring using for example FIGMA as a tool for doing the mockup, which I could use to help my team members if needed to. 
+B: Having my group members feel comfortable asking me questions when it is time to do a more intricate mockup version of the project. 
+(A->B): Reminding snd encouraging my team members to ask questions if they have any, as well as trying to explain how I would do it to the best of my abilities.
+
+- What is my contribution towards the team’s use of Scrum?
+A: I have participated in this week's lectures and exercise session to get a better understanding about SCRUM.
+B: I want to have enough knowledge about SCRUM so that I can participate in the creation of our first sprint which is planned to start next week. 
+(A->B): To get there I will continue to study the topic as well as participate in the team meetings, lectures etc.
+
+- What is my contribution towards the team’s deliveries?
+A: This week, I have took part in designing a first mockup of the project (with Elin), as well as participated in the team meeting where I shared an idea for the project and discussed the other's ideas. 
+B: For next week, I want to continue to contribute to the project by taking on and completing a sprint, as well as creating user stories. 
+(A->B): I will manage to do this by participating in our Monday meeting where we will come up with sprints to do for the week. 
